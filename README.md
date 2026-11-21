@@ -21,7 +21,9 @@ This project focuses on analyzing heart disease data using Microsoft Power BI. I
 
 ## 📊 Dashboard Preview
 
-![Heart Disease Dashboard](Screenshots/dashboard.png)
+![Heart Disease Dashboard]
+<img width="1920" height="1020" alt="heart_disease " src="https://github.com/user-attachments/assets/31bbf60e-2324-4fc8-b13b-4853e1f038e1" />
+
 
 ## 📁 Project Files
 
